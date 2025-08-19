@@ -1,15 +1,15 @@
 # Hi, I'm Sulakshana 👋
 
 ## About Me
-Aspiring Cybersecurity Enthusiast | Ethical Hacking | Linux & Networking Enthusiast  
-Passionate about exploring vulnerabilities, system security, and automation.  
+Aspiring Cybersecurity Enthusiast | Ethical Hacking 
+Passionate about exploring vulnerabilities and system security.  
 Documenting my learning journey through projects and labs.
 
 ## 🔐 Skills & Tools
 - **Languages:** Python, Bash, SQL, Javascript
 - **Security Tools:** Nmap, Wireshark, Metasploit, Burp Suite
 - **Technologies:** Linux, Windows, Networking, Cloud Basics
-- **Areas of Interest:** Ethical Hacking, Penetration Testing, Vulnerability Assessment, Cyber Defense, SOC
+- **Areas of Interest:** Ethical Hacking, Penetration Testing, Vulnerability Assessment, SOC
 
 ## 🚀 Currently Learning
 - Ethical hacking and Penetration Testing
