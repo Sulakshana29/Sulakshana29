@@ -1,15 +1,15 @@
 # Hi, I'm Sulakshana 👋
 
 ## About Me
-Aspiring Cybersecurity Enthusiast | Ethical Hacking 
+Aspiring Cybersecurity Enthusiast | Ethical Hacking | Linux Administration
 Passionate about exploring vulnerabilities and system security.  
 Documenting my learning journey through projects and labs.
 
 ## 🔐 Skills & Tools
-- **Languages:** Python, Bash, SQL, Javascript
-- **Security Tools:** Nmap, Wireshark, Metasploit, Burp Suite
+- **Languages:** Python, Bash, SQL, Javascript(MERN,React-Native), PHP(Laravel)
+- **Security Tools:** Nmap, Wireshark, Burpsuite
 - **Technologies:** Linux, Windows, Networking, Cloud Basics
-- **Areas of Interest:** Ethical Hacking, Penetration Testing, Vulnerability Assessment, SOC
+- **Areas of Interest:** Ethical Hacking, Penetration Testing, Vulnerability Assessment, SOC, Cloud Security, DevSecOps, ML/AI Security
 
 ## 🚀 Currently Learning
 - Ethical hacking and Penetration Testing
@@ -17,8 +17,11 @@ Documenting my learning journey through projects and labs.
 - Cloud Security & DevSecOps
 
 ## 📂 Featured Projects
-- **[Port Scanner](#)** – Python-based scanner to detect open ports in a network.
-- **[Vulnerability Labs](#)** – Hands-on labs with Metasploit and web app vulnerabilities.
-- **[Log Analysis Tool](#)** – Bash script to monitor and analyze server logs.
+- [Port Scanner](https://github.com/Sulakshana29/Port_scanner.git) – Python-based scanner to detect open ports in a network.
+- [Vulnerability Labs](#) – Hands-on labs with Metasploit and web app vulnerabilities.
+- [Log Analysis Tool](#) – Bash script to monitor and analyze server logs.
+- [LangChain Document Q&A Chatbot](https://github.com/Sulakshana29/langchain_chatbot.git) – A chatbot built with LangChain, Streamlit, and FAISS/Chroma that allows users to upload PDFs or text files and ask 
+questions about the content. Implements Retrieval-Augmented Generation (RAG) with embeddings for semantic search.
+- [Real-time chat application](https://github.com/Sulakshana29/MAD_Project.git) - QR code based real time chat application using React and Expo
 
 
