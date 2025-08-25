@@ -17,6 +17,8 @@ Documenting my learning journey through projects and labs.
 - Cloud Security & DevSecOps
 
 ## 📂 Featured Projects
+- [Comprehensive Pet care management system]()-Connects pet owners, veterinary surgeons, and pharmacies with intuitive web interface. Appointment booking and Order medicines
+- [Student Management Portal using MERN](https://github.com/MERN-EZ/MERN-project.git) - Full-stack application for managing student attendance, schedules, and records. - Implemented search filters, real-time   dashboards, and responsive UI.
 - [Port Scanner](https://github.com/Sulakshana29/Port_scanner.git) – Python-based scanner to detect open ports in a network.
 - [Vulnerability Labs](#) – Hands-on labs with Metasploit and web app vulnerabilities.
 - [Log Analysis Tool](#) – Bash script to monitor and analyze server logs.
