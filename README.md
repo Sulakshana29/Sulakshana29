@@ -2,7 +2,7 @@
 
 ## About Me
 Computer Science Undergraduate | Software Engineering & Cybersecurity Enthusiast
-Passionate about building secure, efficient systems and exploring vulnerabilities.
+passionate about building secure, efficient systems and exploring vulnerabilities.
 Documenting my journey through projects, labs, and hands-on learning.
 
 ## 🔐 Skills & Tools
