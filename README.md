@@ -1,9 +1,9 @@
 # Hi, I'm Sulakshana 👋
 
 ## About Me
-Aspiring Cybersecurity Enthusiast | Ethical Hacking | Linux Administration
-Passionate about exploring vulnerabilities and system security.  
-Documenting my learning journey through projects and labs.
+Computer Science Undergraduate | Software Engineering & Cybersecurity Enthusiast
+Passionate about building secure, efficient systems and exploring vulnerabilities.
+Documenting my journey through projects, labs, and hands-on learning.
 
 ## 🔐 Skills & Tools
 - **Languages:** Python, Bash, SQL, Javascript(MERN,React-Native), PHP(Laravel)
