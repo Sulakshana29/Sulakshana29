@@ -1,13 +1,13 @@
 # Hi, I'm Sulakshana 👋
 
 ## About Me
-Computer Science Undergraduate | Software Engineering & Cybersecurity Enthusiast
+Computer Science Undergraduate | AppSec | CyberSecurity 
 passionate about building secure, efficient systems and exploring vulnerabilities.
 Documenting my journey through projects, labs, and hands-on learning.
 
 ## 🔐 Skills & Tools
 - **Languages:** Python, Bash, SQL, Javascript(MERN,React-Native), PHP(Laravel)
-- **Security Tools:** Nmap, Wireshark, Burpsuite
+- **Security Tools:** Nmap, Wireshark, Burpsuite, GenyMotion, Jadx, Kali
 - **Technologies:** Linux, Windows, Networking, Cloud Basics
 - **Areas of Interest:** Ethical Hacking, Penetration Testing, Vulnerability Assessment, SOC, Cloud Security, ML/AI Security
 
@@ -26,5 +26,6 @@ Documenting my journey through projects, labs, and hands-on learning.
 - [LangChain Document Q&A Chatbot](https://github.com/Sulakshana29/langchain_chatbot.git) – A chatbot built with LangChain, Streamlit, and FAISS/Chroma that allows users to upload PDFs or text files and ask 
 questions about the content. Implements Retrieval-Augmented Generation (RAG) with embeddings for semantic search.
 - [Real-time chat application](https://github.com/Sulakshana29/MAD_Project.git) - QR code based real time chat application using React and Expo
+- [PortSwigger Web Security Labs](https://github.com/Sulakshana29/Port-Swigger-Web-Security-Labs.git) - Documenting some labs I did in PortSwigger Web Security Academy
 
 
