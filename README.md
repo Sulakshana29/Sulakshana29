@@ -22,9 +22,6 @@ Documenting my journey through projects, labs, and hands-on learning.
 - [Port Scanner](https://github.com/Sulakshana29/Portscanner_2.git) – Python-based scanner to detect open ports in a network.
 - [email phishing scanner](https://github.com/Sulakshana29/email_scanner.git) - Python based scanner to detect phishing emails
 - [Vulnerability Labs](https://github.com/Sulakshana29/Port-Swigger-Web-Security-Labs.git) – Hands-on labs on  web app vulnerabilities(Burpsuite)
-- [Log Analysis Tool](#) – Bash script to monitor and analyze server logs.
-- [LangChain Document Q&A Chatbot](https://github.com/Sulakshana29/langchain_chatbot.git) – A chatbot built with LangChain, Streamlit, and FAISS/Chroma that allows users to upload PDFs or text files and ask 
-questions about the content. Implements Retrieval-Augmented Generation (RAG) with embeddings for semantic search.
 - [Real-time chat application](https://github.com/Sulakshana29/MAD_Project.git) - QR code based real time chat application using React and Expo
 - [PortSwigger Web Security Labs](https://github.com/Sulakshana29/Port-Swigger-Web-Security-Labs.git) - Documenting some labs I did in PortSwigger Web Security Academy
 
