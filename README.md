@@ -6,7 +6,7 @@ Passionate about building secure, efficient systems and exploring vulnerabilitie
 Documenting my journey through projects, labs, and hands-on learning.
 
 ## 🔐 Skills & Tools
-- **Languages:** Python, Bash, SQL, Javascript(MERN,React-Native), PHP(Laravel)
+- **Languages:** Python, Bash, SQL, Javascript(MERN, React), PHP(Laravel)
 - **Security Tools:** Nmap, Wireshark, Burpsuite, GenyMotion, Jadx, Kali
 - **Technologies:** Linux, Windows, Networking, Cloud Basics
 - **Areas of Interest:** Ethical Hacking, Penetration Testing, Vulnerability Assessment, SOC, Cloud Security, ML/AI Security
