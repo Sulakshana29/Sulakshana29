@@ -1,7 +1,7 @@
 # Hi, I'm Sulakshana 👋
 
 ## About Me
-Computer Science Undergraduate | AppSec & CyberSecurity Enthusiast. 
+Computer Science Undergraduate | AppSec | Devops | DevSecOps | CyberSecurity
 Passionate about building secure, efficient systems and exploring vulnerabilities.
 Documenting my journey through projects, labs, and hands-on learning.
 
