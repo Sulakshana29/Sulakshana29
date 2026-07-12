@@ -20,6 +20,7 @@ Documenting my journey through projects, labs, and hands-on learning.
 
 - [CyberX](https://github.com/Sulakshana29/CyberX.git) – OWASP top 10 scanner - (
 https://cyberx-6jjg.onrender.com)
+- [Taskflow - A simple task scheduler](https://github.com/Sulakshana29/cicd_1.git) - A task manger web app fully deployed on AWS EC2 using github actions
 - [Port Scanner](https://github.com/Sulakshana29/Portscanner_2.git) – Python-based scanner to detect open ports in a network.
 - [email phishing scanner](https://github.com/Sulakshana29/email_scanner.git) - Python based scanner to detect phishing emails
 - [Portswigger Vulnerability Labs](https://github.com/Sulakshana29/Port-Swigger-Web-Security-Labs.git) – Hands-on labs on  web app vulnerabilities(Burpsuite)
