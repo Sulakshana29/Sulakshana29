@@ -18,16 +18,26 @@ Documenting my journey through projects, labs, and hands-on learning.
 
 ## 📂 Featured Projects
 
-- [CyberX](https://github.com/Sulakshana29/CyberX.git) – OWASP top 10 scanner - (
-https://cyberx-6jjg.onrender.com)
-- [Taskflow - A simple task scheduler](https://github.com/Sulakshana29/cicd_1.git) - A task manger web app fully deployed on AWS EC2 using github actions
-- [Port Scanner](https://github.com/Sulakshana29/Portscanner_2.git) – Python-based scanner to detect open ports in a network.
-- [email phishing scanner](https://github.com/Sulakshana29/email_scanner.git) - Python based scanner to detect phishing emails
-- [Portswigger Vulnerability Labs](https://github.com/Sulakshana29/Port-Swigger-Web-Security-Labs.git) – Hands-on labs on  web app vulnerabilities(Burpsuite)
-- [Real-time chat application](https://github.com/Sulakshana29/MAD_Project.git) - QR code based real time chat application using React and Expo
-- [Honeypot Project](https://github.com/Sulakshana29/Honeypot_cowrie.git)
-- [UCSC UGS -An Exam portal for Masters Programmes at University of Colombo School of Computing](https://github.com/ucsc-ugs/ugs-backend)
-- [Comprehensive Pet care management system]()-Connects pet owners, veterinary surgeons, and pharmacies with intuitive web interface. Appointment booking and Order medicines.
-- [Student Management Portal using MERN](https://github.com/MERN-EZ/MERN-project.git) - Full-stack application for managing student attendance, schedules, and records. - Implemented search filters, real-time   dashboards, and responsive UI.
+- [Deal Aggregator](https://github.com/Sulakshana29/Deal_Aggregator.git) – Cloud-native 3-tier deal aggregation platform deployed on AWS EC2 with Docker, Prometheus, and Grafana. Being extended with Kubernetes, Terraform, centralized logging, and security automation.
+
+- [Cloud SOC & Honeypot Detection Lab](https://github.com/Sulakshana29/cloud-siem-honeypot.git) – Cloud-based security monitoring lab using Cowrie SSH honeypot to capture and analyze malicious activity, with centralized logging, detection, alerting, and infrastructure automation using Terraform.
+
+- [CyberX](https://github.com/Sulakshana29/CyberX.git) – OWASP Top 10 vulnerability scanner
+  - [Live Demo](https://cyberx-6jjg.onrender.com)
+
+- [Taskflow - A Simple Task Scheduler](https://github.com/Sulakshana29/cicd_1.git) – Task management web application fully deployed on AWS EC2 using GitHub Actions CI/CD.
+
+- [PortSwigger Vulnerability Labs](https://github.com/Sulakshana29/Port-Swigger-Web-Security-Labs.git) – Hands-on web application security labs covering common vulnerabilities using Burp Suite.
+
+- [Port Scanner](https://github.com/Sulakshana29/Portscanner_2.git) – Python-based network scanner for detecting open ports and services.
+
+- [Email Phishing Scanner](https://github.com/Sulakshana29/email_scanner.git) – Python-based scanner for detecting and analyzing potentially malicious phishing emails.
+
+- [UCSC UGS - Examination Portal](https://github.com/ucsc-ugs/ugs-backend) – Examination and application management platform developed for postgraduate programmes at the University of Colombo School of Computing.
+
+- [Real-Time Chat Application](https://github.com/Sulakshana29/MAD_Project.git) – QR-code-based real-time chat application built using React Native and Expo.
+
+- [Student Management Portal using MERN](https://github.com/MERN-EZ/MERN-project.git) – Full-stack student management system with attendance, schedules, search filters, real-time dashboards, and responsive UI.
+
 
 
