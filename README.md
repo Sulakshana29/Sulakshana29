@@ -24,7 +24,7 @@ Passionate about building secure, resilient architectures, automating least-priv
 - **[CyberX – Web Vulnerability Scanner](https://github.com/Sulakshana29/CyberX)**  
   Automated multi-threaded security testing engine targeting OWASP Top 10 web vulnerabilities (SQLi, XSS, sensitive headers) with structured vulnerability reporting.  
   *Stack: Python, Flask, Vercel, REST APIs*  
-  👉 **[Live Web App](https://cyberx-nu.vercel.app)** *(or your current active Vercel link)*
+  👉 **[Live Web App](https://cyberx-6jjg.onrender.com)** 
 
 - **[Ninnadaya Media Competition Portal](https://github.com/Sulakshana29/ninnadaya)**  
   Production-grade web portal delivered for an inter-school media competition. Handles end-to-end contestant registration, asset submissions, and role-based access control (RBAC).  
